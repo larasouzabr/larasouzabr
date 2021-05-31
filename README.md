@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Eu sou a Lara</h1>
+<h1 align="center">Hi! I'm Lara :) </h1>
 <h3 align="center">I'm a 18-year-old brazilian currently studying Software Engineering at Federal University of Ceará</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larasouzabr&label=Profile%20views&color=ff00ae&style=plastic" alt="larasouzabr" /> </p>
