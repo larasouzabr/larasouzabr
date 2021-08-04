@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Lara :) </h1>
 <h3 align="center">I'm a 18-year-old brazilian currently studying Software Engineering at Federal University of Ceará</h3>
 
+///////////
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larasouzabr&label=Profile%20views&color=ff00ae&style=plastic" alt="larasouzabr" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,6 +14,6 @@
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasouzabr&layout=compact&langs_count=16&theme=omni"alt="larasouzabr"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=onedark&text_color=080808&bg_color=fbbdff&locale=en" alt="larasouzabr" /></p>
+<p <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larasouzabr&theme=default" alt="larasouzabr" /></p>
