@@ -1,5 +1,8 @@
-<h1 align="center">Hi! I'm Lara :) </h1>
-<h5 align="center">I'm a 18-year-old brazilian currently studying Software Engineering at Federal University of Ceará</h5>
+<h1 align="center">Hi! I'm Lara Souza :) </h1>
+<h5 align="center">- I'm a 18-year-old brazilian currently studying Software Engineering at Federal University of Ceará
+ - amazed by travelling and discover new places!
+ - I'm also veggie🌱 
+</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=larasouzabr&label=Profile%20views&color=ff00ae&style=plastic" alt="larasouzabr" /> </p>
 
