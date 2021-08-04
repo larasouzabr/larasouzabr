@@ -10,7 +10,8 @@
  <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=cobalt)"alt="larasouzabr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+"alt="larasouzabr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=onedark&text_color=080808&bg_color=fbbdff&locale=en" alt="larasouzabr" /></p>
 
