@@ -1,5 +1,6 @@
-<h1 align="center">Hi! I'm Lara Souza :) </h1>
-- I'm a 18-year-old brazilian currently studying Software Engineering at Federal University of Ceará
+## Hi! I'm Lara Souza :) 
+
+- I'm a 18-year-old brazilian currently studying Software Engineering at Federal University of Ceará 
 - Amazed by travelling and discover new places!
 - I'm also veggie🌱 
 
