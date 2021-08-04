@@ -20,7 +20,7 @@
 </div>
 
 <h2 align="center"> Here are some ways of contacting me :) </h2>
- <div style="in-line block">
+ <div style="in-line block" align="center">
   <a href="https://instagram.com/laragabb_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laragabriellysouzabatista@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lara-souza-engsoftware/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
