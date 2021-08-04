@@ -12,8 +12,8 @@
  <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 <div>
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasouzabr&layout=compact&langs_count=16&theme=omni"alt="larasouzabr"/> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasouzabr&layout=compact&langs_count=16&theme=omni"alt="larasouzabr"/> </p>
 
-<p align="right"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/></p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/></p>
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larasouzabr&theme=default" alt="larasouzabr" /></p>
