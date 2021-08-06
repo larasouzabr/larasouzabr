@@ -1,8 +1,8 @@
 ## Hi! I'm Lara Souza :) 
 
 - I'm a 18-year-old brazilian currently studying Software Engineering at Federal University of Ceara.
-- Amazed by travelling and discover new places!
-- veggie🌱 
+- Amazed by travelling and discovering new places!
+- Veggie🌱 
 - RomCom lover 🎞
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=larasouzabr&label=Profile%20views&color=ff00ae&style=plastic" alt="larasouzabr" /> </p>
