@@ -16,7 +16,8 @@
 <h2 align="left">Languages and tools I'm currently learning:</h2>
 <p align="left"> <a href="https://angularjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Javascript" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
 </p> 
 <div>
 <p> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasouzabr&layout=compact&langs_count=16&theme=omni"alt="larasouzabr"/> </p>
