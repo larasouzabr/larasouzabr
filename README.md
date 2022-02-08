@@ -4,7 +4,6 @@
 - Amazed by travelling and discovering new places!
 - Veggie🌱 
 - RomCom lover 🎞
-- Front-End dev at LEAD Dell
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=larasouzabr&label=Profile%20views&color=ff00ae&style=plastic" alt="larasouzabr" /> </p>
 
