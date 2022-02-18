@@ -16,7 +16,7 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
 </p> 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasouzabr&layout=compact&langs_count=16&theme=omni"alt="larasouzabr"/>
+<img height="180em" margin="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasouzabr&layout=compact&langs_count=16&theme=omni"alt="larasouzabr"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
 
