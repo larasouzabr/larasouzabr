@@ -14,10 +14,8 @@
  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p> 
-<div>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasouzabr&layout=compact&langs_count=16&theme=omni"alt="larasouzabr"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=larasouzabr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-</div>
+
+https://github-readme-stats.vercel.app/api?username=larasouzabr)](https://github.com/larasouzabr/github-readme-stats)
 
 <h2 align="center"> Here are some ways of contacting me :) </h2>
  <div style="in-line block" align="center">
