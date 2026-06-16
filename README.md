@@ -1,6 +1,6 @@
 ## Hi! I'm Lara Souza :) 
 
-- I'm a 22-year-old brazilian Software Engineer.
+- I'm a 23-year-old brazilian Software Engineer.
 - Amazed by travelling and discovering new places!
 - Currently PHD student at USP.
 - RomCom lover 🎞
